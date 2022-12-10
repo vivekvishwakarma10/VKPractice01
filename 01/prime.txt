@@ -1,4 +1,4 @@
-num = 13;
+num = 15;
 
 for(let i = 0; i>=num; i++ ){
 	if(num %i ==0){
@@ -8,4 +8,4 @@ for(let i = 0; i>=num; i++ ){
 	console.log("number is prime");
 }else{
 	comsole.log("not prime");
-}
+}lkjrgkdjfkhrghjgikdgdfsigj
